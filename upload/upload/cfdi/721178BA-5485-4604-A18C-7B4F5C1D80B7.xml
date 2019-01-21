@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" tipoDeComprobante="ingreso" metodoDePago="01" total="5113.76" Moneda="MXN" LugarExpedicion="MIGUEL HIDALGO,MEXICO D.F." fecha="2016-08-01T00:00:00" sello="A1hn7ydhgSE6ne8I8v+mF4NUuqK1rFppq1DD4sZaHZ17dJv0dJnhYvQX80dSgzuNI0/G4XbHRWMpK8/O4wM/DlUTpdm5lgU3613eJahKvKMWj+BnI+FQvu91q29HQKG9ncfyFdPeqMJ4aOvbY+og7f3hPDhxQ6HjgaX+Wtejzmo=" folio="52297" version="3.2" serie="B" formaDePago="PAGO EN UNA SOLA EXHIBICION" subTotal="5113.76" noCertificado="00001000000203342516" certificado="MIIEbjCCA1agAwIBAgIUMDAwMDEwMDAwMDAyMDMzNDI1MTYwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEzMDMyOTAwNTAzMloXDTE3MDMyOTAwNTAzMlowga8xGzAZBgNVBAMTElBST1ZFTEFDLCBTQSBERSBDVjEbMBkGA1UEKRMSUFJPVkVMQUMsIFNBIERFIENWMRswGQYDVQQKExJQUk9WRUxBQywgU0EgREUgQ1YxJTAjBgNVBC0THFBSTzA5MDgxMkxFOSAvIE1BTUE2MjEwMDlIRDgxHjAcBgNVBAUTFSAvIE1BTUE2MjEwMDlIREZSUkwwNzEPMA0GA1UECxMGTUFUUklaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDOhQQSnZzvoZrGz1pee1coCY642EOFl2yfdyMsqhYYWuk7waYGxmiVHwDy5NQmVRnciSKI1zRLVgtmI7BGEkf9fViOSJWDSKrrLQWjARZPb589j7cIfMrracn4vGfgAPCj+ZjHYAb0TFJl4ZmeD259Uqz8GXBhjqQG0SQ5oU3O4wIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAOVv/PdfVLRzjaM9qjgPLO1SKWvq77nAUJmSa/ORTjs/6uXfR5JPpWb6MPiCyFg3CFRNu3PLZhwJQaFO6O5LzH0uICeCNqqK6VIx3brHYwQuWJUovU9r2paTQ/Fwo6hUf99IusEwmTKHaUOAFLxkZn0KRhTQJV9AIzroNIX/fIILx4aMv0OACCmhDFohfqB1kcMdECT3sIAzDmfSRF4yjTl+WF0UPhtVIe+x7DoCmCiKm2NyV2fEfSGNsG+PqupAGC6WGf6MrB74Lbyeqhm3lyW15zs8ctMPiTpN51KW6Ldzfm4QNC64bIp++t+HhbZZ2MeLaFQqXMfl7PtcDhydaFQ==" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+  <cfdi:Emisor nombre="PROVELAC, S.A. DE C.V." rfc="PRO090812LE9">
+    <cfdi:DomicilioFiscal calle="CALLE 12" noExterior="13" colonia="REFORMA SOCIAL" localidad="MEXICO D.F." municipio="MIGUEL HIDALGO" estado="MEXICO D.F." pais="MEXICO" codigoPostal="11650" />
+    <cfdi:ExpedidoEn calle="CALLE 12" noExterior="13" colonia="REFORMA SOCIAL" localidad="MEXICO D.F." municipio="MIGUEL HIDALGO" estado="MEXICO D.F." pais="MEXICO" codigoPostal="11650" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY DE PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor nombre="RAJLEVSKY KOSBERG ALIZA       " rfc="RAKA811208S28">
+    <cfdi:Domicilio calle="AV. VASCO DE QUIROGA " noExterior="#3800" colonia="VISTA HERMOSA" localidad="MEXICO, D.F." municipio="CUAJIMALPA DE MORELOS" estado="MEXICO, D.F." pais="MEXICO" codigoPostal="05109" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto descripcion="GOUDA R  (Sal.  67757)" valorUnitario="88.00" importe="1075.36" cantidad="12.22" unidad="Kilos" />
+    <cfdi:Concepto descripcion="OAXACA UNILAC  (Sal.  67757)" valorUnitario="85.00" importe="661.30" cantidad="7.78" unidad="Kilos" />
+    <cfdi:Concepto descripcion="PANELA FRANJA  (Sal.  67757)" valorUnitario="73.00" importe="963.60" cantidad="13.20" unidad="Kilos" />
+    <cfdi:Concepto descripcion="PARMESANO RALLADO URUGUAYO  (Sal.  67757)" valorUnitario="187.00" importe="280.50" cantidad="1.50" unidad="Kilos" />
+    <cfdi:Concepto descripcion="JAMON DE PAVO AHUMADO 4.5kg  (Sal.  67757)" valorUnitario="81.00" importe="1620.00" cantidad="20.00" unidad="Kilos" />
+    <cfdi:Concepto descripcion="TOCINO REBANADO DE PAVO 340g  (Sal.  67757)" valorUnitario="57.00" importe="513.00" cantidad="9.00" unidad="Piezas" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="0">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="0" importe="0" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="721178ba-5485-4604-a18c-7b4f5c1d80b7" FechaTimbrado="2016-08-01T09:45:51" selloCFD="A1hn7ydhgSE6ne8I8v+mF4NUuqK1rFppq1DD4sZaHZ17dJv0dJnhYvQX80dSgzuNI0/G4XbHRWMpK8/O4wM/DlUTpdm5lgU3613eJahKvKMWj+BnI+FQvu91q29HQKG9ncfyFdPeqMJ4aOvbY+og7f3hPDhxQ6HjgaX+Wtejzmo=" noCertificadoSAT="00001000000300171326" selloSAT="OfPUxKAOw2OiI/Nbjsje7na/Wc0XK+xCK1Fk/d4BVmZrm490YM9i174pAJyxF22ECmaflgqJ/bKzYn9HEEhn/SXMc9Soxn4bMSO4Vg7LYcByL/LFH/TK+e4K2z06k+QKoJk42UZO/Vrv7oCt4C6MoG7oeewkh6kPjsgsz2ksCsw=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

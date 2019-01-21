@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" tipoDeComprobante="ingreso" metodoDePago="01" total="544.00" Moneda="MXN" LugarExpedicion="MIGUEL HIDALGO,MEXICO D.F." fecha="2016-08-01T00:00:00" sello="iHsA0Kyym8b+nQ6vYsuKIBAkBqxc/M5RjGN0aALj2VH5dfyYfyzdcDK/5aCEbGbFy8OKyzwJ4Ww457st2i5U8iElP8Gx1r1vt2Q/XBdwlrvGsNKvykPq5D5rMMg/tL84qK/WWojfJooKgfuhMseiV/31aVmmAQ9Rt64kX8ZfCK4=" folio="52306" version="3.2" serie="B" formaDePago="PAGO EN UNA SOLA EXHIBICION" subTotal="544.00" noCertificado="00001000000203342516" certificado="MIIEbjCCA1agAwIBAgIUMDAwMDEwMDAwMDAyMDMzNDI1MTYwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEzMDMyOTAwNTAzMloXDTE3MDMyOTAwNTAzMlowga8xGzAZBgNVBAMTElBST1ZFTEFDLCBTQSBERSBDVjEbMBkGA1UEKRMSUFJPVkVMQUMsIFNBIERFIENWMRswGQYDVQQKExJQUk9WRUxBQywgU0EgREUgQ1YxJTAjBgNVBC0THFBSTzA5MDgxMkxFOSAvIE1BTUE2MjEwMDlIRDgxHjAcBgNVBAUTFSAvIE1BTUE2MjEwMDlIREZSUkwwNzEPMA0GA1UECxMGTUFUUklaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDOhQQSnZzvoZrGz1pee1coCY642EOFl2yfdyMsqhYYWuk7waYGxmiVHwDy5NQmVRnciSKI1zRLVgtmI7BGEkf9fViOSJWDSKrrLQWjARZPb589j7cIfMrracn4vGfgAPCj+ZjHYAb0TFJl4ZmeD259Uqz8GXBhjqQG0SQ5oU3O4wIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAOVv/PdfVLRzjaM9qjgPLO1SKWvq77nAUJmSa/ORTjs/6uXfR5JPpWb6MPiCyFg3CFRNu3PLZhwJQaFO6O5LzH0uICeCNqqK6VIx3brHYwQuWJUovU9r2paTQ/Fwo6hUf99IusEwmTKHaUOAFLxkZn0KRhTQJV9AIzroNIX/fIILx4aMv0OACCmhDFohfqB1kcMdECT3sIAzDmfSRF4yjTl+WF0UPhtVIe+x7DoCmCiKm2NyV2fEfSGNsG+PqupAGC6WGf6MrB74Lbyeqhm3lyW15zs8ctMPiTpN51KW6Ldzfm4QNC64bIp++t+HhbZZ2MeLaFQqXMfl7PtcDhydaFQ==" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+  <cfdi:Emisor nombre="PROVELAC, S.A. DE C.V." rfc="PRO090812LE9">
+    <cfdi:DomicilioFiscal calle="CALLE 12" noExterior="13" colonia="REFORMA SOCIAL" localidad="MEXICO D.F." municipio="MIGUEL HIDALGO" estado="MEXICO D.F." pais="MEXICO" codigoPostal="11650" />
+    <cfdi:ExpedidoEn calle="CALLE 12" noExterior="13" colonia="REFORMA SOCIAL" localidad="MEXICO D.F." municipio="MIGUEL HIDALGO" estado="MEXICO D.F." pais="MEXICO" codigoPostal="11650" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY DE PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor nombre="VENTAS MOSTRADOR SATELITE" rfc="XAXX010101000">
+    <cfdi:Domicilio calle="CALLE 12" noExterior="13" colonia="REFORMA SOCIAL" localidad="MEXICO D.F" municipio="MIGUEL HIDALGO" estado="MEXICO D.F" pais="MEXICO" codigoPostal="11650" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto descripcion="OAXACA C  (Sal.  67804)" valorUnitario="68.00" importe="544.00" cantidad="8.00" unidad="Kilos" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="0">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="0" importe="0" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="7640cb02-b385-4597-9de1-d9d8b57fb7af" FechaTimbrado="2016-08-01T18:37:31" selloCFD="iHsA0Kyym8b+nQ6vYsuKIBAkBqxc/M5RjGN0aALj2VH5dfyYfyzdcDK/5aCEbGbFy8OKyzwJ4Ww457st2i5U8iElP8Gx1r1vt2Q/XBdwlrvGsNKvykPq5D5rMMg/tL84qK/WWojfJooKgfuhMseiV/31aVmmAQ9Rt64kX8ZfCK4=" noCertificadoSAT="00001000000300171326" selloSAT="l8h5ih2DSRcX+eq1SZ8iF0CWJCAl3bIVfu8JQmH68CvKAAvl0LGcO66170OZoEnYTbFGlW53pG1eZy5gjl9qGlxsfu8B34zloLsLw5B5DrgiMt2C8avyMpbFGZiDOdFBlm8w8wv5qzOToKpn2RKLa5sv20XEuiy6rsHGrF7Jqbo=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

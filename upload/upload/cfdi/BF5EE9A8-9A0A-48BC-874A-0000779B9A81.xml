@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" tipoDeComprobante="ingreso" metodoDePago="01" total="3686.85" Moneda="MXN" LugarExpedicion="MIGUEL HIDALGO,MEXICO D.F." fecha="2016-08-01T00:00:00" sello="SJWfmxCv8M2+Uy+q5yGbcZcAcTelUFWfVYi1jNXuh/FPdytO2LUg6XVEtSa4chSyFrI9tZnYT3uWSpH+bDBnFlqbG2S5Yzxwnk1Uxp3umFZqLvq0/lbE1K02ED4P9WYQzc9wuzrKjWlltHQprr/9GgVuEgd/9u+6RW94pvmDUrM=" folio="52295" version="3.2" serie="B" formaDePago="PAGO EN UNA SOLA EXHIBICION" subTotal="3686.85" noCertificado="00001000000203342516" certificado="MIIEbjCCA1agAwIBAgIUMDAwMDEwMDAwMDAyMDMzNDI1MTYwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEzMDMyOTAwNTAzMloXDTE3MDMyOTAwNTAzMlowga8xGzAZBgNVBAMTElBST1ZFTEFDLCBTQSBERSBDVjEbMBkGA1UEKRMSUFJPVkVMQUMsIFNBIERFIENWMRswGQYDVQQKExJQUk9WRUxBQywgU0EgREUgQ1YxJTAjBgNVBC0THFBSTzA5MDgxMkxFOSAvIE1BTUE2MjEwMDlIRDgxHjAcBgNVBAUTFSAvIE1BTUE2MjEwMDlIREZSUkwwNzEPMA0GA1UECxMGTUFUUklaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDOhQQSnZzvoZrGz1pee1coCY642EOFl2yfdyMsqhYYWuk7waYGxmiVHwDy5NQmVRnciSKI1zRLVgtmI7BGEkf9fViOSJWDSKrrLQWjARZPb589j7cIfMrracn4vGfgAPCj+ZjHYAb0TFJl4ZmeD259Uqz8GXBhjqQG0SQ5oU3O4wIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAOVv/PdfVLRzjaM9qjgPLO1SKWvq77nAUJmSa/ORTjs/6uXfR5JPpWb6MPiCyFg3CFRNu3PLZhwJQaFO6O5LzH0uICeCNqqK6VIx3brHYwQuWJUovU9r2paTQ/Fwo6hUf99IusEwmTKHaUOAFLxkZn0KRhTQJV9AIzroNIX/fIILx4aMv0OACCmhDFohfqB1kcMdECT3sIAzDmfSRF4yjTl+WF0UPhtVIe+x7DoCmCiKm2NyV2fEfSGNsG+PqupAGC6WGf6MrB74Lbyeqhm3lyW15zs8ctMPiTpN51KW6Ldzfm4QNC64bIp++t+HhbZZ2MeLaFQqXMfl7PtcDhydaFQ==" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+  <cfdi:Emisor nombre="PROVELAC, S.A. DE C.V." rfc="PRO090812LE9">
+    <cfdi:DomicilioFiscal calle="CALLE 12" noExterior="13" colonia="REFORMA SOCIAL" localidad="MEXICO D.F." municipio="MIGUEL HIDALGO" estado="MEXICO D.F." pais="MEXICO" codigoPostal="11650" />
+    <cfdi:ExpedidoEn calle="CALLE 12" noExterior="13" colonia="REFORMA SOCIAL" localidad="MEXICO D.F." municipio="MIGUEL HIDALGO" estado="MEXICO D.F." pais="MEXICO" codigoPostal="11650" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY DE PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor nombre="MONICA SAMUEL KERSHENOVICH" rfc="SAKM810219AA2">
+    <cfdi:Domicilio calle="ANTONIO DOVALIN JAIME" noExterior="70" colonia="ZEDEC ED PLAZA SANTA FE" localidad="DISTRITO FEDERAL" municipio="ALVARO OBREGON" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="01210" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto descripcion="COTTAGE LYNCOTT  (Sal.  67744)" valorUnitario="67.00" importe="67.00" cantidad="1.00" unidad="Kilos" />
+    <cfdi:Concepto descripcion="GOUDA R  (Sal.  67744)" valorUnitario="88.00" importe="531.52" cantidad="6.04" unidad="Kilos" />
+    <cfdi:Concepto descripcion="OAXACA UNILAC  (Sal.  67744)" valorUnitario="85.00" importe="328.10" cantidad="3.86" unidad="Kilos" />
+    <cfdi:Concepto descripcion="PANELA FRANJA  (Sal.  67744)" valorUnitario="73.00" importe="803.73" cantidad="11.01" unidad="Kilos" />
+    <cfdi:Concepto descripcion="CABRA CON CENIZA UNILAC 250g  (Sal.  67744)" valorUnitario="33.00" importe="396.00" cantidad="12.00" unidad="Piezas" />
+    <cfdi:Concepto descripcion="PARMESANO RALLADO URUGUAYO  (Sal.  67744)" valorUnitario="187.00" importe="280.50" cantidad="1.50" unidad="Kilos" />
+    <cfdi:Concepto descripcion="MANTEQUILLA GLORIA 1kg  (Sal.  67744)" valorUnitario="104.00" importe="104.00" cantidad="1.00" unidad="Kilos" />
+    <cfdi:Concepto descripcion="JAMON DE PAVO AHUMADO 4.5kg  (Sal.  67744)" valorUnitario="81.00" importe="891.00" cantidad="11.00" unidad="Kilos" />
+    <cfdi:Concepto descripcion="TOCINO REBANADO DE PAVO 340g  (Sal.  67744)" valorUnitario="57.00" importe="285.00" cantidad="5.00" unidad="Piezas" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="0">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="0" importe="0" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="bf5ee9a8-9a0a-48bc-874a-0000779b9a81" FechaTimbrado="2016-08-01T08:38:33" selloCFD="SJWfmxCv8M2+Uy+q5yGbcZcAcTelUFWfVYi1jNXuh/FPdytO2LUg6XVEtSa4chSyFrI9tZnYT3uWSpH+bDBnFlqbG2S5Yzxwnk1Uxp3umFZqLvq0/lbE1K02ED4P9WYQzc9wuzrKjWlltHQprr/9GgVuEgd/9u+6RW94pvmDUrM=" noCertificadoSAT="00001000000300171326" selloSAT="gedLJ8LzZm8QCmmcdwT1B3kbzl8Inzgy3eCUlTIoKzIzJbtRZnhEYCN2A70H4mRDqP7civ6zI3ObSF39932IQCk1Rmc9f1BSwNxGJWOkPHEYgFQy9LdrAbqIesexXe1aTOrJrzoLi+bPJsV1dMwQpWHFfHsx0oIwjcOdygrLp0U=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

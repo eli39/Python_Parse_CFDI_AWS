@@ -1,0 +1,25 @@
+<html>
+<body>
+
+<form action="">
+  Select files: <input type="file" id="myFile" name="files">
+  <input type="submit">
+</form>
+
+<p>Click the "Try it" button to allow multiple values (files) for the file upload button.</p>
+
+<p>Try selecting more than one file when browsing for files before and after you have clicked on the "Try it" button. <strong>Tip:</strong> hold down CTRL or the SHIFT key while select, to select multiple files.</p>
+
+<button onclick="myFunction()">Try it</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+    document.getElementById("myFile").multiple = true;
+    document.getElementById("demo").innerHTML = "The file upload button now accept multiple values.";
+}
+</script>
+
+</body>
+</html>
