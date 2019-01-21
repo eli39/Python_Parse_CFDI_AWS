@@ -1,6 +1,6 @@
 {
-  "name": "upload",
-  "runtime": "nodejs4.3",
+  "name": "parser",
+  "runtime": "python2.7",
   "description": "Serverless Lambda function for project: lambda",
   "customName": false,
   "customRole": false,

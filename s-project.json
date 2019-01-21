@@ -1,5 +1,0 @@
-{
-  "name": "lambda",
-  "custom": {},
-  "plugins": ["serverless-serve"]
-}
